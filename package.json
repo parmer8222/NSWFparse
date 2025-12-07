@@ -3,7 +3,10 @@
   "version": "3.2.0",
   "description": "Parsing NSWF pictures and gifs from reddit, rule34",
   "main": "src/index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "node test/index.js",
+    "start": "node test/index.js"
+  },
   "keywords": [
     "nsfw",
     "reddit",
