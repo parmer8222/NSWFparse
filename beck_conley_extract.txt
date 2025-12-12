@@ -1,0 +1,200 @@
+Content-Type: text/html; charset=us-ascii
+Date: Fri, 24 May 2024 16:05:51 +0000 (UTC)
+From: Fred from Fireflies <fred@fireflies.ai>
+Mime-Version: 1.0
+Message-ID: <7hmUy_dIRH-mMpGpafLgng@geopod-ismtpd-5>
+Subject: Your meeting recap - Beck Conley - LOI
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EHSuYGAnSLHq0XjvpSSh3Ob98SAD9GmgZhgvngadBNRilIvAcn2wblKP3g?=
+ =?us-ascii?Q?45JoNmSyEn2BNaINLCMSWnizbfhRddLzLNBYgMl?=
+ =?us-ascii?Q?9bTMeIpjlZkOm5=2Fm0UGwrsnouxgeIu1=2FamzHXAd?=
+ =?us-ascii?Q?WFEpzIWDo8r18wkmxCERZ9pkt6fJIcEN7hupGJz?=
+ =?us-ascii?Q?6OE+UF9fsiOh71Nv0mfkG6d7MIraveXSEi=2FWqIY?=
+ =?us-ascii?Q?aCUm9s+3RLWUEx6uM=2Fhzgbe917AFhojlMDppXpv?=
+ =?us-ascii?Q?PCEQan90veGRQtgV0=2FHW6fG+Jw=3D=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2ESdBcvi+Evd=2FbQef8eZF3BnO7yFj2lh9i1I3ZvN1AjJl=2FHyUdTMl+CE5P5?=
+ =?us-ascii?Q?wuo7FbPsEU3gtH4Hg2zwV2soCpZHQ=3D=3D?=
+To: construction@isielitetraining.com
+X-Entity-ID: u001.J/05bnANVTIX7h5v2LMrnQ==
+
+<!DOCTYPE html>
+<html lang=3D"en">
+  <head>
+    <meta charset=3D"UTF-8" />
+    <link
+      href=3D"https://fonts.googleapis.com/css2?family=3DPoppins:wght@400;5=
+00;600;700&family=3DRoboto:wght@400;500;600;700&display=3Dswap"
+      rel=3D"stylesheet"
+    />
+    <link
+      href=3D"https://fonts.googleapis.com/css2?family=3DDM+Sans:wght@400;5=
+00;700&display=3Dswap"
+      rel=3D"stylesheet"
+    />
+    <link
+      href=3D"https://fonts.googleapis.com/css2?family=3DInter:wght@400;500=
+;600;700&display=3Dswap"
+      rel=3D"stylesheet"
+    />
+    <style>
+      .font-roboto {
+        font-family: 'Roboto', 'Verdana', 'Helvetica', 'Arial', sans-serif;
+      }
+      .font-poppins {
+        font-family: 'Poppins', 'Roboto', 'Verdana', 'Helvetica', 'Arial', =
+sans-serif;
+      }
+      .font-dm-sans {
+        font-family: 'DM Sans', 'Roboto', 'Verdana', 'Helvetica', 'Arial', =
+sans-serif;
+      }
+      .font-inter {
+        font-family: 'Inter', 'Roboto', 'Verdana', 'Helvetica', 'Arial', sa=
+ns-serif;
+      }
+      .ff-link {
+        font: inherit;
+        color: #6E75FF!important;
+        text-decoration: underline;
+      }
+      .ff-paragraph {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: -0.02em;
+        color: #484f56;
+        padding-top: 21px;
+      }
+    </style>
+  </head>
+  <body
+    class=3D"font-roboto"
+    style=3D"
+      background: #F2F4F7;
+      margin: 0;
+      padding: 24px 0px 40px 0px;
+    "
+  >
+   =20
+   =20
+   =20
+    <table align=3D"center" cellspacing=3D"0" cellpadding=3D"0" style=3D"wi=
+dth: 100%;=20
+      background: #ffffff;
+      max-width: 640px; padding: 0 24px;">
+      <tr>
+        <td align=3D"center">
+          <table align=3D"center" style=3D"max-width: 520px; width: 100%;" =
+cellspacing=3D"0" cellpadding=3D"0">
+            <tr>
+              <td><table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0"=
+ style=3D"border-spacing: 0px">
+      <tr><td style=3D"padding-top: 72px;"></td></tr>  <tr>
+        <td align=3D"center" valign=3D"middle">
+          <a
+            href=3D"https://app.fireflies.ai/view/Beck-Conley-LOI::Ynih8q7m=
+r3XWHII8?ref&#x3D;recap&amp;track&#x3D;Ynih8q7mr3XWHII8&amp;sg&#x3D;nb&amp;=
+utm_content&#x3D;header_image"
+            target=3D"_blank"
+          >
+            <img
+              style=3D"max-width: 100%"
+              alt=3D""
+              width=3D"241"
+              height=3D"auto"
+              src=3D"https://files.fireflies.ai/email-templates/meeting-rec=
+--
+                          </td>
+                          <td style=3D"padding-left: 16px; padding-top: 0px=
+; box-sizing: border-box;">
+                            <p style=3D"font-size: 16px; font-weight: 500; =
+margin-top: 0px; margin-bottom: 0px; color: #484F56; line-height: 24px;">
+                            Beck Conley - LOI
+                            </p>
+                            <p style=3D"font-size: 14px; font-weight: 400; =
+margin-top: 2px; margin-bottom: 0px; color: #878F97; line-height: 20px;">Ma=
+y 24th at 11:45 AM EST</p>
+                          </td>
+                        </tr>
+                    </table>
+                </div>
+            </a>
+        </td>
+      </tr>
+   =20
+      <tr><td style=3D"padding-top: 21px;"></td></tr>
+   =20
+      <tr>
+        <td align=3D"center" valign=3D"top" style=3D"line-height: 48px;">
+    <div style=3D"display: inline-block; vertical-align: top; max-width: 25=
+2px; width: 100%;">
+              <table
+        style=3D"
+          border-collapse: collapse;
+          border-spacing: 0;
+          width: 100%;
+          max-width: 252px;
+        "
+        align=3D"center"
+      >
+        <tr>
+          <td>
+            <a
+              class=3D"font-roboto"
+              href=3D"https://app.fireflies.ai/view/Beck-Conley-LOI::Ynih8q=
+7mr3XWHII8?ref&#x3D;recap&amp;track&#x3D;Ynih8q7mr3XWHII8&amp;sg&#x3D;nb&am=
+p;utm_content&#x3D;view_recap_cta"
+              style=3D"
+                display: inline-block;
+                box-sizing: border-box;
+                width: 100%;
+                padding: 12px 40px;
+                background: #6e75ff;
+               =20
+                border: 1px solid #6e75ff;
+                border-radius: 5px;
+                color: #FFFFFF;
+                font-weight: 500;
+                font-size: 16px;
+                line-height: 18px;
+                text-align: center;
+                letter-spacing: -0.02em;
+                text-decoration: none;
+              "
+            >View meeting recap</a>
+          </td>
+        </tr>
+      </table>
+     =20
+    </div>
+    <div style=3D"display: inline-block; vertical-align: top; max-width: 25=
+2px; width: 100%;">
+              <table
+        style=3D"
+          border-collapse: collapse;
+          border-spacing: 0;
+          width: 100%;
+          max-width: 252px;
+        "
+        align=3D"center"
+      >
+        <tr>
+          <td>
+            <a
+              class=3D"font-roboto"
+              href=3D"https://app.fireflies.ai/view/Beck-Conley-LOI::Ynih8q=
+7mr3XWHII8?ref&#x3D;recap&amp;track&#x3D;Ynih8q7mr3XWHII8&amp;sg&#x3D;nb&am=
+p;share&#x3D;1&amp;utm_content&#x3D;share_recap_cta"
+              style=3D"
+                display: inline-block;
+                box-sizing: border-box;
+                width: 100%;
+                padding: 12px 40px;
+                background: #F5F5FF;
+               =20
+                border: 1px solid transparent;
+                border-radius: 5px;
+                color: #6E75FF;
+                font-weight: 500;
+                font-size: 16px;

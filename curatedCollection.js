@@ -4,7 +4,7 @@ const library = nswfparse.library;
 async function getCuratedLibrary() {
   try {
     console.log("🔄 Fetching curated collection from available sources...\n");
-    
+
     const collection = await library.getCuratedCollection({
       rule34Count: 0,    // Skip Rule34 (requires auth)
       rule31Count: 0,    // Skip Rule31 (API issues)

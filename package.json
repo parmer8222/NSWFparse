@@ -25,5 +25,7 @@
   },
   "author": "Zachey",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
